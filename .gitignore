@@ -488,3 +488,5 @@ API/reactivities.db-shm
 API/reactivities.db-wal
 *.db-wal
 *.db-shm
+*.db-shm
+*.db-wal
